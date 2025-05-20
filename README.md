@@ -103,4 +103,4 @@ Le fichier JSON doit suivre le format généré par InsightMaker, contenant une 
 * Intégration avec des frameworks de machine learning (TensorFlow, PyTorch…).
 
 ## 📝 Licence
-Projet réalisé dans le cadre d'un stage de développement web.
+Projet réalisé dans le cadre d'un stage en développement informatique.
